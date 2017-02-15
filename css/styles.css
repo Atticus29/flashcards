@@ -17,6 +17,14 @@ body {
   color: white;
 }
 
+.darkBody .clickable{
+  color: black;
+}
+
+.darkBody .defintionContent{
+  color: black;
+}
+
 /*.lightBody {
   background-color: white;
   color: black;
@@ -33,6 +41,11 @@ body {
 .activeDef{
   /*color: red;*/
   display: block;
+}
+
+img.activeDef{
+  width: 80%;
+  height: 80%;
 }
 #row1{
   height: 100%;
